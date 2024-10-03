@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpinnerHW</string>
+    <string name="tb_title">Подбор персонала</string>
+    <string name="name_text">Имя :</string>
+    <string name="hint_text">поле ввода</string>
+    <string name="last_name_text">Фамилия :</string>
+    <string name="post_text">Должность:</string>
+    <string name="save_btn_text">Сохранить</string>
+    <string name="exit_title">Exit</string>
+</resources>
